@@ -1,26 +1,47 @@
-1.first i tried to install VS code then the reference video i get something about the vs code. 
+Visual Studio Code (VS Code) is a free code editor made by Microsoft.
+There are more shortcuts and features in VS i'm going to share some of the shortcuts and extensions which i have come across through my study.
+VS is build with ELECTRON js.It is user friendly we can change the settings to our customize.
+We can open MULTIPLE file at a time and we can customize to the file.
 
-2.Then the seconnd i tried to learned the short cuts to efficiently use VS code and its tools: 
+In VS: 
+          The firstfour is the mostly used 
+          --> save icon
+          --> search 
+          --> source 
+          --> RUN as administrator.
+          --> extension installer.
 
-                      For windows Ctrl + B to toggle the sidebar menu.
+shortcuts:  for windows
+              ctrl b --> open the side bar.
+              ctrl p --> to search the word.
+              ctrl+shift d --> to debugging.
+              ctrl+shift g --> for the source control.
+              ctrl c --> to copy.
+              ctrl v --> to paste.
+              ctrl f --> replace the words to change.
+              ctrl w --> to select the current word.
+              ctrl+shift --> used to change directory.
+              ctrl d --> select the word at the cursor 
+              ctrl+shift l --> which will add a selection at each occurrence of the current selected text.
 
-                      Ctrl + shift + D to debugging.
-                      Ctrl + shift + F to search and replace.
-
-3.Learned to create new file and to write code.
-
-4.Extensions that are usefull in VS code:
-
-5.(prettier) -> for format on while saving.
-
-6.(cobalt 2) -> for theme.
-
-7.(advance new file) -> to create new file using command.
-
-8.(Live serve) -> for launch a development local server with live reload feature for static & dynamic pages.
-
-9.(Quokka) -> Gives JavaScript playground and TypeScript.
-
-10.(Bookmarks) -> for marking lines and jumping to them.
-
-11.At last i Learned to Run and Debug. 
+some of the words like:
+                zenmode --->for concentration on the code.
+                minimap --->to view the entire code in the side.
+                Emmet   --->powerful shortcut it will give the boilerplate code to an HTML/CSS file.
+some of the Extension are:
+               --> To change theme use the "COALT2"
+               --> "palette" is an extensionv
+               --> Extension for format "prettier"
+               --> For better commands use "better comments"
+               --> Javascript extension "QUOKKA"
+               --> To share the code use "potacode"
+               --> Automaticaly update the closing tags "autonametags"
+               --> To match brackets (or) to view differently each and every brackets use "bracketpaircolorizer"
+               --> To use in database use "Faunadb"
+               --> To give colour to function keys & words use "Dotenv"
+               --> "ES7React/reduxgraphical" is used for react js to draw graph.
+               --> To share our coding by live use the word "liveshare"
+               --> settingsync is used to sync with github and another upcoming time.
+               --> To do toggle for a particularline  "launchchromeagainsthost".
+In Visualstudio we can able to push our code directly to GITHUB repositiries.
+there are so many settings we can customize according to our shortcut key.
